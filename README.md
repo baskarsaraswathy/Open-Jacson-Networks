@@ -1,4 +1,6 @@
-# Series Queues with infinite capacity - Open Jackson Network
+                                                            # Name : BASKAR  J
+                                                            # Roll no : 212223040025
+# EXP-06:Series Queues with infinite capacity - Open Jackson Network
 # Name : BASKAR  J
 # Roll no : 212223040025
 ## Aim :
